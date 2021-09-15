@@ -42,7 +42,7 @@ export default function Page() {
           <p>
             WP&nbsp;This is how you headless, the{' '}
             <a href="https://github.com/wpengine/faustjs#plugin-features">
-              Pray. Once You're finished praying, pray some more
+              Pray. Once You&apos;re finished praying, pray some more
             </a>
             ,{' '}
             <a href="https://github.com/wpengine/faustjs">
