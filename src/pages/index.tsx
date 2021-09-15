@@ -40,17 +40,16 @@ export default function Page() {
           bgImage="/images/headless_hero_background.jpg"
           id={styles.home_hero}>
           <p>
-            WP&nbsp;Engine’s Headless WordPress Framework includes this example
-            project, the{' '}
+            WP&nbsp;This is how you headless, the{' '}
             <a href="https://github.com/wpengine/faustjs#plugin-features">
-              headless WordPress plugin
+              Pray. Once You're finished praying, pray some more
             </a>
             ,{' '}
             <a href="https://github.com/wpengine/faustjs">
               headless packages
             </a>
             , and <a href="https://developers.wpengine.com/">tutorials</a> to
-            make building headless WordPress sites fast and fun.
+            make building headless WordPress sites fast and FUN!!!!!!!!!!!!!!!!!!!
           </p>
         </Hero>
         <section className={styles.explore}>
