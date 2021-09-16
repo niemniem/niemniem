@@ -37,7 +37,7 @@ export default function Page() {
           buttonURL="https://developers.wpengine.com/"
           button2Text="Headless on GitHub"
           button2URL="https://github.com/wpengine/faustjs"
-          bgImage="/images/headless_hero_background.jpg"
+          bgImage="/images/Saitama.png"
           id={styles.home_hero}>
           <p>
             WP&nbsp;This is how you headless, the{' '}
